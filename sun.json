@@ -1,0 +1,382 @@
+{
+  "id": "sun-lithros",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@lithros Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_155f452c98d3",
+    "display_name": "lithros",
+    "user_id": "@lithros",
+    "description": "Community Archive-derived proof-of-search sun for @lithros.",
+    "document_count": 34011,
+    "word_count": 434282,
+    "active_days": 3000,
+    "emissions": [
+      "Michaelcurzi",
+      "Don",
+      "Dancinghorse16",
+      "Good",
+      "Cheascake",
+      "Time"
+    ],
+    "generated_at": "2026-06-27T16:28:35.375481+00:00",
+    "color": "#f59e0b",
+    "mass": 12.981
+  },
+  "planets": [
+    {
+      "id": "planet_fecfbe36ed37",
+      "name": "Michaelcurzi",
+      "summary": "Archive cluster around michaelcurzi: 29391 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "michaelcurzi",
+        "only",
+        "plesmasquerade",
+        "think",
+        "never"
+      ],
+      "artifacts": [
+        {
+          "id": "art_932cc5d75f7a",
+          "title": "Michaelcurzi receipt from 2022-12-02",
+          "excerpt": "I am going to solve AI alignment https://t.co/IOJrsvLWg7",
+          "source_document_id": "1598560176776351745",
+          "timestamp": "2022-12-02T06:10:20+00:00",
+          "url": "https://x.com/lithros/status/1598560176776351745",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: michaelcurzi, only, plesmasquerade, think."
+        },
+        {
+          "id": "art_ae0c377383e0",
+          "title": "Michaelcurzi receipt from 2024-05-13",
+          "excerpt": "wives will really be like \"I'm so grateful you learned to enjoy ballroom dancing, my favorite activity, so we can participate in it together\" and then refuse to put more than the most cursory effort into learning your preferred full-fidelity military flight simulator",
+          "source_document_id": "1790089929046811000",
+          "timestamp": "2024-05-13T18:41:12+00:00",
+          "url": "https://x.com/lithros/status/1790089929046811000",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: michaelcurzi, only, plesmasquerade, think."
+        },
+        {
+          "id": "art_b7afbc91d0d7",
+          "title": "Michaelcurzi receipt from 2023-01-08",
+          "excerpt": "sunk cost fallacy saved my marriage",
+          "source_document_id": "1612233710211833857",
+          "timestamp": "2023-01-08T23:44:05+00:00",
+          "url": "https://x.com/lithros/status/1612233710211833857",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: michaelcurzi, only, plesmasquerade, think."
+        },
+        {
+          "id": "art_87b719f8e203",
+          "title": "Michaelcurzi receipt from 2022-06-22",
+          "excerpt": "she's a 10 but she adheres to a niche religion that split from yours over a minor dispute in doctrinal interpretation 600 years ago",
+          "source_document_id": "1539662935953289216",
+          "timestamp": "2022-06-22T17:33:44+00:00",
+          "url": "https://x.com/lithros/status/1539662935953289216",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: michaelcurzi, only, plesmasquerade, think."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_936a69f9f7e2",
+      "proof_score": 1,
+      "mass": 38.37,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_7ea01ad7f4ea",
+      "name": "Don",
+      "summary": "Archive cluster around don: 1073 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "think",
+        "want",
+        "need"
+      ],
+      "artifacts": [
+        {
+          "id": "art_9793b8106ce1",
+          "title": "Don receipt from 2021-06-17",
+          "excerpt": "her: \"it's like I don't know you anymore\"\n\nme: \"I think you mean 'it's like my mental model of you is no longer sufficiently predictive at a low enough resource allocation to make this relationship worth the opportunity cost'\"\n\nher: \"what the hell are you talking about\"",
+          "source_document_id": "1405543067613110275",
+          "timestamp": "2021-06-17T15:09:15+00:00",
+          "url": "https://x.com/lithros/status/1405543067613110275",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        },
+        {
+          "id": "art_272170cff7f9",
+          "title": "Don receipt from 2022-04-13",
+          "excerpt": "gf who is mad because you don't know why she's mad",
+          "source_document_id": "1514369326245195782",
+          "timestamp": "2022-04-13T22:25:57+00:00",
+          "url": "https://x.com/lithros/status/1514369326245195782",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        },
+        {
+          "id": "art_44184fcb749c",
+          "title": "Don receipt from 2022-12-02",
+          "excerpt": "@velocitycake I just hope I don't have to keep reminding it",
+          "source_document_id": "1598573258856693760",
+          "timestamp": "2022-12-02T07:02:19+00:00",
+          "url": "https://x.com/lithros/status/1598573258856693760",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        },
+        {
+          "id": "art_7521cbd198c0",
+          "title": "Don receipt from 2021-05-01",
+          "excerpt": "wife: we're codependent\nme: don't flatter yourself",
+          "source_document_id": "1388511575049441281",
+          "timestamp": "2021-05-01T15:12:11+00:00",
+          "url": "https://x.com/lithros/status/1388511575049441281",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, think, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ec740b3db667",
+      "proof_score": 1,
+      "mass": 29.984,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_ec6c9052c453",
+      "name": "Dancinghorse16",
+      "summary": "Archive cluster around dancinghorse16: 995 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "dancinghorse16",
+        "gptbrooke",
+        "duderichy",
+        "cheascake",
+        "rididelduol"
+      ],
+      "artifacts": [
+        {
+          "id": "art_f8e665aa4420",
+          "title": "Dancinghorse16 receipt from 2024-12-25",
+          "excerpt": "Merry Christmas! @dancinghorse16 and I are pleased to announce our newest gift to the world — due April 2025!\n\nWe have it on good authority that It is a Boy! https://t.co/K2WqYUqrJG",
+          "source_document_id": "1871970181754531979",
+          "timestamp": "2024-12-25T17:24:05+00:00",
+          "url": "https://x.com/lithros/status/1871970181754531979",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: dancinghorse16, gptbrooke, duderichy, cheascake."
+        },
+        {
+          "id": "art_23e003c68ff9",
+          "title": "Dancinghorse16 receipt from 2024-03-22",
+          "excerpt": "happy birthday to my magnificent wife @dancinghorse16, my constant companion, my foil, the embodiment of spousal virtue, a credit to her sex, the mother of the year, tolerator of the intolerable. she's really beautiful too https://t.co/dcNKS0equp",
+          "source_document_id": "1770997016165765145",
+          "timestamp": "2024-03-22T02:12:46+00:00",
+          "url": "https://x.com/lithros/status/1770997016165765145",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: dancinghorse16, gptbrooke, duderichy, cheascake."
+        },
+        {
+          "id": "art_cb9af89a59a6",
+          "title": "Dancinghorse16 receipt from 2022-05-16",
+          "excerpt": "Happy 13th anniversary to the most extravagantly beautiful woman I've ever laid eyes on, who enflames my heart brighter than magnesium, whose kindness &amp; intelligence are 2nd only to her impossibly good looks, the one, the only, inestimably incredible, my wife @dancinghorse16! https://t.co/1vHutgf3M1",
+          "source_document_id": "1526283743744471040",
+          "timestamp": "2022-05-16T19:29:36+00:00",
+          "url": "https://x.com/lithros/status/1526283743744471040",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: dancinghorse16, gptbrooke, duderichy, cheascake."
+        },
+        {
+          "id": "art_934a7ba4cb0a",
+          "title": "Dancinghorse16 receipt from 2024-05-16",
+          "excerpt": "15 years ago I sealed the deal with this scintillating firecracker. @dancinghorse16 is so perfect, daily I grow more agog at her radiant charms \n\nshe's also extremely good-looking. I told her so &amp; she said \"beauty fades\". not when it's rooted in timeless grace &amp; elegance, my dear https://t.co/X3aZeN9Ubi",
+          "source_document_id": "1791195949995372950",
+          "timestamp": "2024-05-16T19:56:07+00:00",
+          "url": "https://x.com/lithros/status/1791195949995372950",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: dancinghorse16, gptbrooke, duderichy, cheascake."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9919bdf2686a",
+      "proof_score": 1,
+      "mass": 28.62,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_4772df1f28bd",
+      "name": "Good",
+      "summary": "Archive cluster around good: 919 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "pretty",
+        "too",
+        "think",
+        "bad"
+      ],
+      "artifacts": [
+        {
+          "id": "art_57129fc70bcf",
+          "title": "Good receipt from 2022-09-03",
+          "excerpt": "above-average people often get really upset when you suggest that average paths are good for average people",
+          "source_document_id": "1566091656448950274",
+          "timestamp": "2022-09-03T15:52:02+00:00",
+          "url": "https://x.com/lithros/status/1566091656448950274",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, pretty, too, think."
+        },
+        {
+          "id": "art_c90a7589c2b2",
+          "title": "Good receipt from 2022-06-23",
+          "excerpt": "best advice I ever got -- \"the road to hell is paved with good intentions\"\n\nheard that and haven't formed a good intention since. it's been great",
+          "source_document_id": "1539952216575991809",
+          "timestamp": "2022-06-23T12:43:14+00:00",
+          "url": "https://x.com/lithros/status/1539952216575991809",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, pretty, too, think."
+        },
+        {
+          "id": "art_fb3e58f89cc0",
+          "title": "Good receipt from 2021-12-20",
+          "excerpt": "my daughter just patiently explained to my why she's uniquely qualified to judge books by their covers\n\n\"I can just tell if it's going to be good by looking at the cover. I can just tell.\"",
+          "source_document_id": "1472920686029123592",
+          "timestamp": "2021-12-20T13:23:51+00:00",
+          "url": "https://x.com/lithros/status/1472920686029123592",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, pretty, too, think."
+        },
+        {
+          "id": "art_3ed6e86c4bd8",
+          "title": "Good receipt from 2022-11-11",
+          "excerpt": "forget carbon credits. with my new ethics credits, you can do as much evil as you want, then pay me and I promise to more than offset it with good",
+          "source_document_id": "1590932230133944320",
+          "timestamp": "2022-11-11T04:59:36+00:00",
+          "url": "https://x.com/lithros/status/1590932230133944320",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, pretty, too, think."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_6e0da3917c84",
+      "proof_score": 1,
+      "mass": 29.23,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_9bdf91841f8c",
+      "name": "Cheascake",
+      "summary": "Archive cluster around cheascake: 907 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "cheascake",
+        "plesmasquerade",
+        "eggprophet",
+        "pareinoia",
+        "never"
+      ],
+      "artifacts": [
+        {
+          "id": "art_3cecdcd0285b",
+          "title": "Cheascake receipt from 2021-03-25",
+          "excerpt": "@cheascake I am a great ethics professor because I understand that the primary function of ethics is justifying bad acts",
+          "source_document_id": "1374973241480056832",
+          "timestamp": "2021-03-25T06:35:41+00:00",
+          "url": "https://x.com/lithros/status/1374973241480056832",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: cheascake, plesmasquerade, eggprophet, pareinoia."
+        },
+        {
+          "id": "art_868b86480ecf",
+          "title": "Cheascake receipt from 2024-01-22",
+          "excerpt": "@cheascake it's not from the yogurt region of gogurtopia",
+          "source_document_id": "1749567484271689903",
+          "timestamp": "2024-01-22T22:59:28+00:00",
+          "url": "https://x.com/lithros/status/1749567484271689903",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: cheascake, plesmasquerade, eggprophet, pareinoia."
+        },
+        {
+          "id": "art_7ea916da3e0b",
+          "title": "Cheascake receipt from 2022-04-01",
+          "excerpt": "@cheascake I TOLD you not to swim in the river!!!",
+          "source_document_id": "1509905544836005888",
+          "timestamp": "2022-04-01T14:48:29+00:00",
+          "url": "https://x.com/lithros/status/1509905544836005888",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: cheascake, plesmasquerade, eggprophet, pareinoia."
+        },
+        {
+          "id": "art_20379726a346",
+          "title": "Cheascake receipt from 2024-07-01",
+          "excerpt": "@cheascake I fix the computer",
+          "source_document_id": "1807873755290444174",
+          "timestamp": "2024-07-01T20:27:46+00:00",
+          "url": "https://x.com/lithros/status/1807873755290444174",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: cheascake, plesmasquerade, eggprophet, pareinoia."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5f2543be37b8",
+      "proof_score": 1,
+      "mass": 27.124,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_22da24374984",
+      "name": "Time",
+      "summary": "Archive cluster around time: 726 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "every",
+        "first",
+        "only",
+        "next"
+      ],
+      "artifacts": [
+        {
+          "id": "art_684fb0764c95",
+          "title": "Time receipt from 2024-06-16",
+          "excerpt": "My daughter: what time is it? \n\n@_inju: time isn't real\n\nDaughter: uh, wrong. what if you go to the dining hall for dinner and it isn't open yet? time matters a lot",
+          "source_document_id": "1802189861543137295",
+          "timestamp": "2024-06-16T04:02:00+00:00",
+          "url": "https://x.com/lithros/status/1802189861543137295",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, only."
+        },
+        {
+          "id": "art_450171a867d5",
+          "title": "Time receipt from 2021-06-24",
+          "excerpt": "I've been struggling with sunk cost fallacy for a long time, and I'm starting to think it isn't so bad",
+          "source_document_id": "1408128833396563979",
+          "timestamp": "2021-06-24T18:24:10+00:00",
+          "url": "https://x.com/lithros/status/1408128833396563979",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, only."
+        },
+        {
+          "id": "art_37f677c82382",
+          "title": "Time receipt from 2020-10-29",
+          "excerpt": "let alone once you move past theory, all practical instruction emphasizes the need to appeal to the JUDGE, not the LAW, when crafting arguments; how the personal history of the judge informs their future rulings. we spend all this time pretending jurisprudence is something--",
+          "source_document_id": "1321674056182149120",
+          "timestamp": "2020-10-29T04:43:45+00:00",
+          "url": "https://x.com/lithros/status/1321674056182149120",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, only."
+        },
+        {
+          "id": "art_13eced0703f3",
+          "title": "Time receipt from 2021-11-02",
+          "excerpt": "tired: living for the moment\n\nwired: living with constant consciousness of impending death, so you make every moment count\n\ninspired: transcending linear time and living as though you are already dead",
+          "source_document_id": "1455531084691746818",
+          "timestamp": "2021-11-02T13:43:47+00:00",
+          "url": "https://x.com/lithros/status/1455531084691746818",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, only."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_2dcbd55a2fc3",
+      "proof_score": 1,
+      "mass": 28.72,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
